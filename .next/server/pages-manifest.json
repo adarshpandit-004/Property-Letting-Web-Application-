@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/properties/[id]": "pages/properties/[id].js",
+  "/api/auth/me": "pages/api/auth/me.js",
+  "/api/properties/[id]": "pages/api/properties/[id].js",
+  "/properties/viewproperty": "pages/properties/viewproperty.js",
+  "/api/properties": "pages/api/properties.js",
+  "/login": "pages/login.js",
+  "/api/auth/login": "pages/api/auth/login.js",
+  "/dashboard": "pages/dashboard.js",
+  "/admin/users": "pages/admin/users.js",
+  "/api/admin/users": "pages/api/admin/users.js",
+  "/api/admin/users/[id]": "pages/api/admin/users/[id].js",
+  "/admin/applications": "pages/admin/applications.js",
+  "/api/admin/applications": "pages/api/admin/applications.js"
+}
