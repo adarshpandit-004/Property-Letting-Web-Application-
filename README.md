@@ -5,7 +5,7 @@
 BSc Computing (Honours), Year 2  
 Student ID: 3134329  
 
----
+
 
 ## 📖 Overview
 This full-stack **Property Letting Web Application** was developed as part of my *Server-Side Web Development (Assignment 3)* coursework.  
