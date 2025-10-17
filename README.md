@@ -1,4 +1,5 @@
 🏠 Property Letting Web Application
+
 📖 Overview
 This full-stack Property Letting Web Application was developed as part of my Server-Side Web Development coursework. The project demonstrates my ability to build a complete CRUD-based web solution using Next.js, Node.js, and MySQL, with secure authentication, database integration, and role-based access control for multiple user types.
 
