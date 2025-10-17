@@ -13,7 +13,7 @@ It demonstrates my ability to build a complete CRUD-based web solution using **N
 
 The project allows landlords to manage property listings, tenants to apply for rentals, and admins to oversee all users and applications in a secure, efficient, and user-friendly environment.
 
----
+
 
 ## ⚙️ Key Features
 
@@ -46,7 +46,7 @@ The project allows landlords to manage property listings, tenants to apply for r
 - Navigation bar with links to Home, Browse Properties, Register, and Login.  
 - Visual consistency across all pages for better user experience.
 
----
+
 
 ## 🧩 Technical Stack
 - **Frontend:** Next.js (React), HTML5, CSS3  
@@ -55,7 +55,7 @@ The project allows landlords to manage property listings, tenants to apply for r
 - **Security:** bcrypt password hashing, cookies, sessions  
 - **Tools & Environment:** VS Code, XAMPP, MySQL Workbench, GitHub  
 
----
+
 
 ## 🚀 What I Learned
 - Building and structuring **role-based authentication systems** in Node.js  
@@ -64,7 +64,7 @@ The project allows landlords to manage property listings, tenants to apply for r
 - Applying **relational database design** principles  
 - Managing and deploying code using **Git and GitHub**
 
----
+
 
 ## 💡 Future Enhancements
 - Integrate property image upload functionality  
@@ -72,7 +72,7 @@ The project allows landlords to manage property listings, tenants to apply for r
 - Enhance dashboards with real-time updates  
 - Deploy application on cloud platforms (e.g., Vercel, Render, or AWS)  
 
----
+
 
 ## 📄 Visual Overview
 **File:** `Website Visuals.pdf`  
@@ -84,12 +84,12 @@ This PDF includes screenshots of the application, displaying user interfaces and
 - Landlord property management (CRUD)  
 - Admin dashboard for user and application management  
 
----
+
 
 ## 🧠 Summary
 This project highlights my ability to design and implement **full-stack web applications** with secure, scalable, and user-oriented functionality.  
 It showcases both **technical proficiency** and **practical understanding** of database-driven web development — essential skills for modern software development roles.
 
----
+
 
 ⭐ **Feel free to explore this repository and view the live demonstration screenshots in `Website Visuals.pdf`.**
